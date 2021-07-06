@@ -7,7 +7,11 @@ As of May 2020, NSF (and DOE) have moved to the NIH-style [SciENcv format](https
 
 ## How?
 
-Until SciENcv automatically connects to publication databases like Scopus, your best bet as an astronomer or physicist is to grab your publication list from [inspire-hep](https://inspirehep.net) or [NASA ADS](https://ui.adsabs.harvard.edu/) and massage them into the proper format. Here are instructions for both options.
+Until SciENcv automatically connects to publication databases like Scopus, your best bet as an astronomer or physicist is to curate your publication list on ORCID and import from there. Alternatively, you can grab your publication list from [inspire-hep](https://inspirehep.net) or [NASA ADS](https://ui.adsabs.harvard.edu/) and massage them into the proper format. Here are instructions for manual imports.
+
+### Using ORCID
+
+If you have an [ORCID iD](https://orcid.org/) then the biosketch system will let you import citations, though you'll have less control over formatting. This is the quickest and easiest way to import as long as you are actively managing your ORCID account.
 
 ### Using inspire-hep
 
