@@ -3,7 +3,7 @@ Scripts for managing NSF biosketches in the SciENcv format.
 
 ## Why?
 
-As of May 2020, NSF (and DOE) have moved to the NIH-style [SciENcv format](https://www.ncbi.nlm.nih.gov/sciencv/) for proposal biosketches. As of June/July 2021, importing references into SciENcv can be painful if your references are not already in PubMed. That excludes prominent astronomy and astrophysics journals such as the Astrophysical Journal, A&A, MNRAS, etc. This project provides some ways to reduce the pain by showing you how to manually import reference in RIS format.
+As of May 2020, NSF (and DOE) have moved to the NIH-style [SciENcv format](https://www.ncbi.nlm.nih.gov/sciencv/) for proposal biosketches. As of June/July 2021, importing references into SciENcv can be painful if your references are not already in PubMed, which excludes prominent astronomy and astrophysics journals such as the Astrophysical Journal, A&A, MNRAS, etc. and a number of physics journals from Elsevier. This project provides some ways to reduce the pain by showing you how to manually import reference in RIS format.
 
 ## How?
 
